@@ -42,4 +42,4 @@
 >错过了我的这本书，其实是踏空了超越命运的机会
 
 ### 目录
-1.[我命到底由谁](https://github.com/qihongsong/---/blob/master/%E6%88%91%E5%91%BD%E5%88%B0%E5%BA%95%E7%94%B1%E8%B0%81)
+1.[我命到底由谁](https://github.com/qihongsong/---/blob/master/%E6%88%91%E5%91%BD%E5%88%B0%E5%BA%95%E7%94%B1%E8%B0%81.md)
