@@ -1,4 +1,4 @@
-chaoyuemingyun.com
+www.chaoyuemingyun.com
 ### 为什么要看这本书
 中国古人在形容一个人走到好运或者坏运的时候，分别有两个词：
 
